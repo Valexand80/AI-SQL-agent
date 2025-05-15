@@ -7,7 +7,7 @@ You can type plain English questions, and the app will generate and run valid SQ
 
 ## 📸 Screenshot
 
-![Demo Screenshot](Streamlit_SQL.jpg)
+![Demo Screenshot](Sreamlit_SQL.jpg)
 
 ---
 
